@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "example" {
   name     = "Test-RG"
-  location = "West Europe"
+  location = "CentralIndia"
 }
 
 resource "azurerm_storage_account" "example" {
